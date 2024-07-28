@@ -10,6 +10,8 @@
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
 
 ### Project Overview
 
@@ -72,3 +74,12 @@ include some interesting code/features worked with
 ### Recommendations
 
 - Target women customers of age group (30-49yrs) living in Maharashtra, Karnataka & Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart & Myntra.
+
+### Limitations
+
+I had to create new columns to classify age-groups and distinguish sales on monthly basis to generate meaningful insights & data precision.
+
+### References
+
+-Google
+-Youtube
