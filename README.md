@@ -1,1 +1,1 @@
-# data_analytics_projects
+# Vrinda Store Sales Analysis
