@@ -15,8 +15,7 @@
 
 This data analysis project aims to provide insights into the sales performance of an E-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify the trends make data driven recommendations and gain a deeper understanding of the company's performance.
 
-
-[Exploratory Sales Analysis.pdf](https://github.com/user-attachments/files/16405136/Exploratory.Sales.Analysis.pdf)
+[Exploratory Sales Analysis-Dashboard.pdf](https://github.com/user-attachments/files/16405140/Exploratory.Sales.Analysis-Dashboard.pdf)
 
 ### Data Sources
 
