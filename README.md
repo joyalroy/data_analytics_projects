@@ -3,6 +3,12 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
 - [Recommendations](#recommendations)
 
 ### Project Overview
@@ -17,7 +23,7 @@ Sales Data: The primary dataset used for this analysis is the file, containing d
 
 - Microsoft Excel Workbok :- Data Cleaning, Data Analysis & Data Visualization.
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 In the initial data preparation phase, the following tasks were performed.
 
@@ -25,7 +31,7 @@ In the initial data preparation phase, the following tasks were performed.
 2. Handling missing values.
 3. Data cleaning & formatting.
 
-### Exploratory Data Analysis(EDA)
+### Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions, such as;
 
@@ -44,7 +50,7 @@ include some interesting code/features worked with
 
 ```excel
 
-#NewCloumn
+#NewColumn
 
 =IF(E2>=50,"Senior",IF(E2>=30,"Adult","Teenager"))
 
@@ -53,7 +59,7 @@ include some interesting code/features worked with
 =TEXT(G2,"mmm")
 ```
 
-### Results/Findings
+### Results
 
 1. Month of March had the most peak sales(1.9M).
 2. Women are more likely to buy compared to men(~65%).
