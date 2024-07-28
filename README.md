@@ -77,9 +77,9 @@ include some interesting code/features worked with
 
 ### Limitations
 
-I had to create new columns to classify age-groups and distinguish sales on monthly basis to generate meaningful insights & data precision.
+- I had to create new columns to classify age-groups and distinguish sales on monthly basis to generate meaningful insights & data precision.
 
 ### References
 
--Google
--Youtube
+- Google
+- Youtube
